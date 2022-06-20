@@ -4,7 +4,7 @@
 <div class="container">
   <div class="row">
     <div class="col-3 p-5">
-      <img class="rounded-circle" src="https://media.licdn.com/dms/image/C5103AQE7xUNj5WZ2TQ/profile-displayphoto-shrink_200_200/0?e=1582156800&v=beta&t=71C6k_b1YK0HADP7ZAClQxk23k3nCn5-4iXAPSx_w0g">
+      <img class="rounded-circle" src="">
 
     </div>
     <div class="col-9 pt-5">
